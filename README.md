@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Mohite.
-- 👀 I’m interested in learning to code and changing careers to this field.
-- 🌱 I’m currently learning python basics.
-- 💞️ I’m looking to collaborate on roadmaps to learn web development and data science.
+- 👀 I’m interested in learning to code and changing my career to this field.
+- 🌱 I’m currently learning Web Development through online resources.
+- 💞️ I’m looking to collaborate on roadmaps to learn full stack web development.
 
 <!---
 harsh-mohite-09/harsh-mohite-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
